@@ -1,17 +1,17 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+title: Rust Faction Redux
+subtitle: By old Rust Factions players, for new and old Rust Factions players
+Discord: https://discord.gg/GtjpVbTbe9
+description: Rust Factions brought back by original members from the .XYZ days with a clear focus on what made Rust Factions good! A clear RP focused sever with land claim, taxes and empire building features and minor PvP elements that exist solely to create a story for every player!
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
+street_address: 1234 Rad Road
+city: Launch Site
+state: Proc Gen
 zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+country: Cobalt Minor Outlying Island
+phone: (111) 222 3333
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -22,15 +22,10 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: https://github.com/andrewbanchich
-  GitLab:
-  Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
   Instagram:
-  LinkedIn: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-  Twitter: https://twitter.com/andrewbanchich
-  Facebook:
-  Slack:
+  Discord: https://discord.gg/GtjpVbTbe9
 
+  
 # build settings
 markdown: kramdown
 
